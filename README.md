@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @vandalit
 I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia and Multimodal.
 
-Now i am even exploring VQGAN + CLIP for AIart. (thanks to @crowsonkb for their amazing contributions, and all the community around this project)
-Still so much for learn!
-
 Actual pathway: Consolading my knowledge on Web Develpment and Ruby on Rails FullStack.
-Actually in a bootcamp of UX/UI.
+Certifying UX/UI. Coursing Front-end, Google UXUI.
 Portafolio and projects are coming...
 
 <!---
