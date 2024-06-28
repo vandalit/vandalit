@@ -2,6 +2,8 @@
 I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia and Multimodal.
 
 Actual pathway: Consolading my knowledge on Web Develpment, UXUI, Front-end. 
+<br>
+
 Backlog: Ruby on Rails FullStack.
 
 Portafolio and projects are coming...
