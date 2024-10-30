@@ -26,3 +26,9 @@ You can click the Preview link to take a look at your changes.
 
 ![vandalit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandalit&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 ![vandalit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vandalit&theme=synthwave&hide_border=true)
+
+
+<br>
+<br>
+
+for(LifeLoop){if(LearnToRecognizeThisEvent){break;}}
