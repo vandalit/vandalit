@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @vandalit
-I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia and Multimodal.
+- 👋 Hi, I’m @vandalitI'm interested in something that doesn’t exist yet: the intersection of Metamedia with Semantic and Cognitive Design. 👀 Just having fun. But go ahead — judge me.
 
-Actual pathway: Consolading my knowledge on Web Development, UXUI & Front-end. 
-<br>
 
-Backlog: Ruby on Rails FullStack. Python FullStack.
+I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia, UX and Multimodal.
 
-Portafolio and projects are coming...
 
 <!---
 vandalit/vandalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
