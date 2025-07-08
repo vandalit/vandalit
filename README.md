@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vandalitI'm interested in something that doesn’t exist yet: the intersection of Metamedia with Semantic and Cognitive Design. 👀 Just having fun. But go ahead — judge me.
 
 
-I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia, UX and Multimodal.
+I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia, UX and Multimodal. At the speed of a Sloath.
 
 
 <!---
