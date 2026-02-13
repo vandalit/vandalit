@@ -1,6 +1,6 @@
 <!-- PROFILE README (condensado + chips) -->
 
-<h1 align="center">Van / Iván • @vandalit</h1>
+<h1 align="center">Van • @vandalit</h1>
 <p align="center">
   <i>UX/UI + Full-Stack • Diseño Industrial & Fabricación • Sistemas, taxonomías y prototipado</i>
 </p>
