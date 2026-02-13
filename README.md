@@ -21,13 +21,11 @@
 
 ---
 
-### 🧩 Enfoque
+
 **Conecto lo digital y lo físico**: UX + dev + sistemas (IA/arquitectura de información) + fabricación (CAD/CAM).  
 Me obsesionan los flujos, la claridad, y construir herramientas que “aguanten el uso real”.
 
----
 
-### 🧰 Skills (chips)
 <p align="left">
   <!-- Front -->
   <img src="https://img.shields.io/badge/HTML5-✓-E34F26?logo=html5&logoColor=white" />
@@ -54,19 +52,6 @@ Me obsesionan los flujos, la claridad, y construir herramientas que “aguanten 
   <img src="https://img.shields.io/badge/CNC%20%26%20Robotics-✓-1F2937?logo=probot&logoColor=white" />
 </p>
 
----
-
-### 🗺️ Framework personal
-**Rizoma → Sensemaking → Semillero → Incubadora**  
-(para convertir ideas dispersas en proyectos operables)
-
----
-
-### 📌 Destacados (pínchalos tú)
-- 🔗 **MetaMedia** → `LINK_REPO_O_SITIO`
-- 🔗 **Syzygy** → `LINK_SITIO/CASESTUDIES`
-- 🔗 **Tessella** → `LINK_TIENDA/PORTAFOLIO`
-- 🔗 **UX/UI Mentoring** → `LINK_MATERIAL/REPO`
 
 ---
 
