@@ -1,33 +1,80 @@
-- 👋 Hi, I’m @vandalitI'm interested in something that doesn’t exist yet: the intersection of Metamedia with Semantic and Cognitive Design. 👀 Just having fun. But go ahead — judge me.
+<!-- PROFILE README (condensado + chips) -->
 
+<h1 align="center">Van / Iván • @vandalit</h1>
+<p align="center">
+  <i>UX/UI + Full-Stack • Diseño Industrial & Fabricación • Sistemas, taxonomías y prototipado</i>
+</p>
 
-I explore the intersetction between Design, Engineering, Coding, Storytelling, Multimedia, UX and Multimodal. At the speed of a Sloath.
+<p align="center">
+  <a href="https://github.com/vandalit"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white"></a>
+  <a href="LINK_PORTAFOLIO"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Open-0A66C2?logo=google-chrome&logoColor=white"></a>
+  <a href="LINK_BEHANCE"><img alt="Behance" src="https://img.shields.io/badge/Behance-View-1769FF?logo=behance&logoColor=white"></a>
+  <a href="mailto:TU_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white"></a>
+</p>
 
+---
 
-<!---
-vandalit/vandalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧭 Ahora
+- 🕸️ **Syzygy** → agencia web (WordPress/Vue, SEO/SEM, analítica, performance)
+- 🪐 **MetaMedia** → comunidad/open-source: biblioteca/taxonomía/timeline de medios
+- 🧱 **Tessella** → impresión 3D: figuras/moldes + talleres
 
-<a href='https://github.com/vandalit' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e06444f0f821325acecd72a9a02c76494ae2d285f8c5dd55ab9667c8fcef3540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e06444f0f821325acecd72a9a02c76494ae2d285f8c5dd55ab9667c8fcef3540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/932fbe5ffd97a8ff473211cd828d8ddafe1cd7a2359fe42866089578f7dfd09a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/932fbe5ffd97a8ff473211cd828d8ddafe1cd7a2359fe42866089578f7dfd09a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30a1e2490eb70146c8fd5a7760bdfd132de9a95eab6711ed8b7233459927b3f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/30a1e2490eb70146c8fd5a7760bdfd132de9a95eab6711ed8b7233459927b3f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a0c885378047ca9a7331a2c8161403c10dd384cac88fdec568bf4777ac797a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/7a0c885378047ca9a7331a2c8161403c10dd384cac88fdec568bf4777ac797a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c41a840e943a7f0d7ae22524b249c7b4519a6a0881f8c2cbbe07b1c053d8b83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6c41a840e943a7f0d7ae22524b249c7b4519a6a0881f8c2cbbe07b1c053d8b83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d7768697465" alt="Ruby" data-canonical-src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&amp;logo=ruby&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/59db8a30e8a690571e84ca6ea0603f0c8193f3073e62be8578fc2f02dfef3111/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562795f6f6e5f5261696c732d4343303030303f7374796c653d666c61742d737175617265266c6f676f3d727562792d6f6e2d7261696c73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/59db8a30e8a690571e84ca6ea0603f0c8193f3073e62be8578fc2f02dfef3111/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562795f6f6e5f5261696c732d4343303030303f7374796c653d666c61742d737175617265266c6f676f3d727562792d6f6e2d7261696c73266c6f676f436f6c6f723d7768697465" alt="Ruby on Rails" data-canonical-src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&amp;logo=ruby-on-rails&amp;logoColor=white" style="max-width: 100%;"></a>
+---
 
-<br>
+### 🧩 Enfoque
+**Conecto lo digital y lo físico**: UX + dev + sistemas (IA/arquitectura de información) + fabricación (CAD/CAM).  
+Me obsesionan los flujos, la claridad, y construir herramientas que “aguanten el uso real”.
 
+---
 
-![vandalit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandalit&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-![vandalit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vandalit&theme=synthwave&hide_border=true)
+### 🧰 Skills (chips)
+<p align="left">
+  <!-- Front -->
+  <img src="https://img.shields.io/badge/HTML5-✓-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-✓-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-✓-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vue.js-✓-4FC08D?logo=vue.js&logoColor=white" />
+  <!-- Back -->
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-✓-CC0000?logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-✓-339933?logo=node.js&logoColor=white" />
+  <!-- CMS / Growth -->
+  <img src="https://img.shields.io/badge/WordPress-✓-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO%2FSEM-✓-0F172A?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GA4%20%2F%20GTM%20%2F%20GSC-✓-4285F4?logo=googleanalytics&logoColor=white" />
+  <!-- UX -->
+  <img src="https://img.shields.io/badge/UX%2FUI-✓-111827?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA%20(Info%20Architecture)-✓-111827?logo=abstract&logoColor=white" />
+  <!-- Ops -->
+  <img src="https://img.shields.io/badge/Git-✓-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20%2F%20WSL-✓-FCC624?logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Email%20DNS%20(SPF%2FDKIM%2FDMARC)-✓-374151?logo=maildotru&logoColor=white" />
+  <!-- Fabricación -->
+  <img src="https://img.shields.io/badge/CAD%2FCAE%2FCAM-✓-1F2937?logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Printing-✓-1F2937?logo=creality&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNC%20%26%20Robotics-✓-1F2937?logo=probot&logoColor=white" />
+</p>
 
+---
 
-<br>
-<br>
+### 🗺️ Framework personal
+**Rizoma → Sensemaking → Semillero → Incubadora**  
+(para convertir ideas dispersas en proyectos operables)
 
-for (LifeLoop) {<br>
-if (LearnToRecognizeThisEvent) {<br>
-break;<br>
-}}
+---
+
+### 📌 Destacados (pínchalos tú)
+- 🔗 **MetaMedia** → `LINK_REPO_O_SITIO`
+- 🔗 **Syzygy** → `LINK_SITIO/CASESTUDIES`
+- 🔗 **Tessella** → `LINK_TIENDA/PORTAFOLIO`
+- 🔗 **UX/UI Mentoring** → `LINK_MATERIAL/REPO`
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vandalit&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandalit&layout=compact" />
+</p>
+
+<p align="center">
+  <i>“Sistemas claros, diseño útil y prototipos que se pueden tocar.”</i>
+</p>
